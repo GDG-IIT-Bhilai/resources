@@ -70,7 +70,10 @@ High-tier player allocations are strictly capped[cite: 1]. Available slots acros
 
 When the global prize counter opens, your points can be exchanged directly for premium, custom-branded Google Cloud developer assets.
 
+
 <img width="1280" height="720" alt="maxresdefault" src="https://github.com/user-attachments/assets/eaae1290-1b7a-4fef-b6f7-de5b5d598420" />
+
+NOTE: This year's prize counter is not updated yet, it will be updated at the EOY.
 
 
 👉 **Ready to launch your profile?** Explore the full catalog and track your enrollment markers here:
