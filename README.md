@@ -20,6 +20,8 @@ Navigate through our dedicated program guides to lock in your next technical mil
 * **What you'll find:** Structural outlines for rolling application cohorts (Editions 1, 2, and 3), criteria to capture fully funded examination vouchers, and detailed deep-dives into supported certification tracks including Associate Cloud Engineer (ACE), Professional Cloud Architect (PCA), and Generative AI Leader (GAIL).
 * **Best for:** Dedicated developers and engineering students preparing to validate industry-grade expertise on a global scale to accelerate internship and placement opportunities.
 
+### 🎓 [Links needed](./Learning Directory.md)
+* **What it is:** The official candidate place for all links needed.
 ---
 
 ## 🎯 Getting Started Checklist for Freshers
