@@ -70,13 +70,8 @@ High-tier player allocations are strictly capped[cite: 1]. Available slots acros
 
 When the global prize counter opens, your points can be exchanged directly for premium, custom-branded Google Cloud developer assets.
 
-<p align="center">
-  <img src="assets/swag-backpacks.png" alt="Google Cloud Premium Backpacks" width="31%"/>
-  <img src="assets/swag-jackets.png" alt="Google Cloud Bomber Jackets & Hoodies" width="31%"/>
-  <img src="assets/swag-accessories.png" alt="Google Cloud Water Bottles & Tech Organizers" width="31%"/>
-</p>
+<img width="1280" height="720" alt="maxresdefault" src="https://github.com/user-attachments/assets/eaae1290-1b7a-4fef-b6f7-de5b5d598420" />
 
----
 
 👉 **Ready to launch your profile?** Explore the full catalog and track your enrollment markers here:
 * [Official Google Cloud Arcade Console](https://go.qwiklabs.com/arcade)[cite: 1]
